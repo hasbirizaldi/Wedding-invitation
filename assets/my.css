@@ -16,7 +16,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(/img/a.jpg);
+  background-image: url(/img/b.jpg);
   background-size: cover;
   z-index: -1;
   /* filter: grayscale(); */
